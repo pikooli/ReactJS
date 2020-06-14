@@ -1,0 +1,12 @@
+.choice{
+    display :flex;
+    width: 400px;
+    flex-wrap: wrap;
+}
+
+.choice > .letter{
+    font-size: 2em;
+    margin: 0.2em;
+    display:flex;
+    cursor: default;
+}
